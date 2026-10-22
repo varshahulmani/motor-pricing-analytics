@@ -1,0 +1,6 @@
+data/
+outputs/
+__pycache__/
+*.pyc
+.venv/
+# reports/ and tableau/data/ ARE committed: they are the results
